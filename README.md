@@ -1,5 +1,8 @@
 # pychess
-The only way you need to make this work is to make sure you have pygame installed correctly.<br>
+This repository contains a fully playable chess game implemented in Python using the Pygame library. <br>
+It features a graphical user interface, sound effects for game actions, and enforces all the rules of chess,<br>
+including special moves like castling, en passant, and pawn promotion.<br><br>
+The way you need to make this work is to make sure you have pygame installed correctly.<br>
 Before you install, make sure python is installed to your machine by using the command:<br>
 `python --version`<br>
 If a message like "Python 3.8.10" appears then you have python installed correctly.<br>
